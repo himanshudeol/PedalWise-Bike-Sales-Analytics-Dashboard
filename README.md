@@ -24,10 +24,12 @@ PedalWise-Bike-Sales-Dashboard/
 ## 🛠️ Tools Used
 - **Power BI Desktop:** Interactive data visualization and report building
 - **Power Query:** For initial data cleaning and transformation
-- **Bike Buyers Dataset:** Public dataset from Kaggle containing customer demographics and purchase behavior
+- **Bike Buyers Dataset:** Public dataset from Kaggle containing customer demographics and purchase behavio
+- **DAX:** Advanced calculations for measures like conversion rates and buyer segmentation.
+- **CSV:** Data storage format for the Bike Buyers dataset.
 
 ## 🗃️ Dataset Overview
-The dataset includes:
+The project uses the Bike Buyers Dataset from Kaggle ```(bike_buyers_clean.csv)```, which includes the following columns:
 - 👤 **Customer Demographics:** Age, gender, marital status, education, income
 - 🚗 **Commute Information:** Region, commute distance, number of cars
 - 🛍️ **Purchase Behavior:** Bike purchase status, product interests

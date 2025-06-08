@@ -17,7 +17,7 @@ PedalWise-Bike-Sales-Dashboard/
 │   └── Deep_Dive.png
 │── 📄 README.md                           # Project documentation
 │── 📄 Insights.md                         # Extracted insights and summary
-│── 🧠 PowerBI_Report.pbix                # Power BI project file
+│── 🧠 PedalWise.pbix                # Power BI project file
 │── 📊 Presentation.pdf                    # Project presentation slides
 ```
 

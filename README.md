@@ -152,9 +152,6 @@ This project is free to use for learning and academic purposes.
 Feel free to fork the repo, suggest improvements, or reach out with feedback.
 
 ---
-📜 License
-This project is open-source and available for modification and distribution.
-📩 Contributions & Feedback
-Contributions, suggestions, and feedback are welcome!Feel free to fork the repository, submit issues, or open pull requests.
-Happy Analyzing! 🚴‍♀️
+## Happy Analyzing! 🚴‍♀️
 
+---

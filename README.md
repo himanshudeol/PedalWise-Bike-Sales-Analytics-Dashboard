@@ -5,6 +5,7 @@
 
 ## 📁 Project Structure
 
+```
 PedalWise-Bike-Sales-Dashboard/
 │── 📂 Data                                # Cleaned dataset
 │   └── bike_buyers.csv                    # Bike buyers dataset
@@ -18,6 +19,7 @@ PedalWise-Bike-Sales-Dashboard/
 │── 📄 Insights.md                         # Extracted insights and summary
 │── 🧠 PowerBI_Report.pbix                # Power BI project file
 │── 📊 Presentation.pdf                    # Project presentation slides
+```
 
 ## 🛠️ Tools Used
 - **Power BI Desktop:** Interactive data visualization and report building

@@ -3,6 +3,8 @@
 ## 📘 Overview
 **PedalWise** is a business intelligence project designed to explore and visualize sales and customer behavior from a bike retail company. The dashboard is powered by a cleaned and structured version of the *Bike Buyers Dataset*, and is built using **Power BI**. The goal is to extract actionable insights that can guide marketing strategies, customer segmentation, and operational decisions.
 
+---
+
 ## 📁 Project Structure
 
 ```
@@ -21,12 +23,16 @@ PedalWise-Bike-Sales-Dashboard/
 │── 📊 Presentation.pdf                    # Project presentation slides
 ```
 
+---
+
 ## 🛠️ Tools Used
 - **Power BI Desktop:** Interactive data visualization and report building
 - **Power Query:** For initial data cleaning and transformation
 - **Bike Buyers Dataset:** Public dataset from Kaggle containing customer demographics and purchase behavio
 - **DAX:** Advanced calculations for measures like conversion rates and buyer segmentation.
 - **CSV:** Data storage format for the Bike Buyers dataset.
+
+---
 
 ## 🗃️ Dataset Overview
 The project uses the Bike Buyers Dataset from Kaggle ```(bike_buyers_clean.csv)```, which includes the following columns:
@@ -49,11 +55,15 @@ The project uses the Bike Buyers Dataset from Kaggle ```(bike_buyers_clean.csv)`
 - **🎂 Age:** Customer age
 - **🛒 Purchased Bike:** Yes or No (target variable)
 
+---
+
 ## 🛠️ Data Processing & Cleaning
 - Connected to the CSV file in Power BI and cleaned column names (removed spaces, standardized formats).
 - Formatted columns: Age as Whole Number, Income as Currency.
 - Filtered customers' age group and removed rows with null or blank values.
 - Created a custom Income Category column in Power Query (Low: <50000, Medium: 50000–100000, High: >100000).
+
+---
 
 ## 📈 Visualizations & Dashboard Features
 
@@ -69,6 +79,8 @@ The project uses the Bike Buyers Dataset from Kaggle ```(bike_buyers_clean.csv)`
 - 💸 Correlation between income levels and likelihood of purchase
 - 🧭 Visual KPIs, slicers, and interactive filters for detailed exploration
 
+---
+
 ## 📝 DAX Calculations
 ### Basic Measures:
 - **Total Buyers:** Count of customers who purchased a bike.
@@ -79,11 +91,15 @@ The project uses the Bike Buyers Dataset from Kaggle ```(bike_buyers_clean.csv)`
 - Used CALCULATE and FILTER to analyze High Income + Long Commute + No Car scenarios.
 - Used SUMX and AVERAGEX to compare buyer vs. non-buyer incomes.
 
+---
+
 ## ✅ Key Features
 - Clean and interactive visual dashboards
 - Slicers for dynamic filtering
 - Conditional formatting and smart KPIs
 - Region-specific insights for targeted marketing
+
+---
 
 ## 🔧 Installation & Setup
 
@@ -103,6 +119,7 @@ cd PedalWise-Bike-Sales-Analytics-Dashboard
 ### Explore the Dashboard:
 - Use slicers to filter by Region and Commute Distance.
 
+---
 
 ## 🚀 Key Findings
 
@@ -111,21 +128,30 @@ cd PedalWise-Bike-Sales-Analytics-Dashboard
 - Car ownership impacts conversion: customers with 0–1 cars are more likely to buy bikes.
 - Professionals and customers with a Bachelors degree form the largest buyer segments.
 
+---
+
 ## 🚀 Future Improvements
 
 - Add real-time data integration for live sales tracking 📈
 - Incorporate machine learning to predict future buyer behavior 🤖
 - Expand the dataset with bike type preferences and customer feedback 📊
 - Develop a mobile-friendly version of the dashboard 📱
+---
 
 ## 🚀 Key Insights
 See [Insights.md](Insights.md) for the summary of insights generated from the analysis.
 
+---
+
 ## 📜 License
 This project is free to use for learning and academic purposes.
 
+---
+
 ## 🙌 Contributions
 Feel free to fork the repo, suggest improvements, or reach out with feedback.
+
+---
 📜 License
 This project is open-source and available for modification and distribution.
 📩 Contributions & Feedback

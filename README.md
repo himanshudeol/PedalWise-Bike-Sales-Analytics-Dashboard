@@ -152,6 +152,4 @@ This project is free to use for learning and academic purposes.
 Feel free to fork the repo, suggest improvements, or reach out with feedback.
 
 ---
-## Happy Analyzing! 🚴‍♀️
-
----
+### Happy Analyzing! 🚴‍♀️

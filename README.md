@@ -34,7 +34,7 @@ The project uses the Bike Buyers Dataset from Kaggle ```(bike_buyers_clean.csv)`
 - 🚗 **Commute Information:** Region, commute distance, number of cars
 - 🛍️ **Purchase Behavior:** Bike purchase status, product interests
 - 🏙️ **Geographic Data:** Region and country
-
+### Detailed Columns:
 - **🆔 ID:** Unique customer identifier
 - **💍 Marital Status:** Married or Single
 - **👤 Gender:** Male or Female

@@ -98,7 +98,7 @@ cd PedalWise-Bike-Sales-Analytics-Dashboard
 
 ### Open the Power BI File:
 - Open ```PedalWise.pbix``` in Power BI Desktop.
-- Ensure the dataset (bike_buyers_clean.csv) is in the Data folder or update the data source path in Power BI.
+- Ensure the dataset (```bike_buyers_clean.csv```) is in the Data folder or update the data source path in Power BI.
 
 ### Explore the Dashboard:
 - Use slicers to filter by Region and Commute Distance.
